@@ -34,7 +34,7 @@ To set up your environment, follow these steps:
    ```
 3. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/python-course-da-vigo-nicoloso.git
+   git clone https://github.com/nicolotrebino/python_programming_course.git
    ```
 4. Navigate to the project folder and start Jupyter Notebook:
    ```bash
@@ -51,7 +51,7 @@ To set up your environment, follow these steps:
    ```
 3. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/python-course-da-vigo-nicoloso.git
+   git clone https://github.com/nicolotrebino/python_programming_course.git
    ```
 4. Navigate to the project folder and start Jupyter Notebook:
    ```bash

@@ -38,7 +38,7 @@ To set up your environment, follow these steps:
    ```
 4. Navigate to the project folder and start Jupyter Notebook:
    ```bash
-   cd python-course-da-vigo-nicoloso
+   cd python_programming_course
    jupyter notebook
    ```
 5. Open the `.ipynb` files to follow the lessons.
@@ -55,7 +55,7 @@ To set up your environment, follow these steps:
    ```
 4. Navigate to the project folder and start Jupyter Notebook:
    ```bash
-   cd python-course-da-vigo-nicoloso
+   cd python_programming_course
    jupyter notebook
    ```
 5. Open the `.ipynb` files to follow the lessons.
